@@ -36,3 +36,6 @@ ENV/
 
 # SCORM packages
 *.zip
+
+# Virtual environment
+py-venv/
