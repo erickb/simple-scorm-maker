@@ -24,9 +24,11 @@
     <organization identifier="{{ organization.identifier }}">
       <title>{{ organization.name }}</title>
       {% for item in content_items %}
+      {% if item.required %}
       <item identifier="item_{{ loop.index }}" identifierref="resource_{{ loop.index }}">
         <title>{{ item.title }}</title>
       </item>
+      {% endif %}
       {% endfor %}
     </organization>
   </organizations>
