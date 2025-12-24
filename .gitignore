@@ -39,3 +39,6 @@ ENV/
 
 # Virtual environment
 py-venv/
+
+# Output folder
+output/
