@@ -77,7 +77,7 @@ def process_content(input_dir: Path, config: Dict) -> List[Dict]:
             # Create a default item
             title = get_title_from_filename(file_name)
             description = ''
-            required = True
+            required = False
         
         # Get the file extension and MIME type
         ext = file_path.suffix.lower()
