@@ -2,15 +2,15 @@
 
 # Package metadata
 package:
-  title: "Ecological Macroeconomics"
+  title: "Ecological Macroeconomics Notes"
   identifier: "SOEE5120M-2025-26"
   version: "1.0"
   language: "en-US"
-  description: "An introduction to ecological macroeconomics"
+  description: "A collection of notes for SOEE5120M: Ecological Macroeconomics"
 
 # Organization information
 organization:
-  name: "Ecological Macroeconomics"
+  name: "Ecological Macroeconomics Notes"
   identifier: "SOEE5120M"
 
 # SCORM standard version (options: "1.2", "2004_3rd", "2004_4th")
@@ -35,17 +35,22 @@ ui:
 # Content items
 content_items:
   - file: "01-abc-accounts.html"
-    title: "The ABC approach - Accounts and ratios"
+    title: "1) The ABC approach: Accounts and ratios"
     description: "Introduction to the Accounts/Behaviours/Closures approach to constructing macroeconomic models with a focus on accounts."
     required: true
     
   - file: "02-behaviour-income-dist.html"
-    title: "Behaviours - Functional Income Distribution"
+    title: "2) Behaviours: Functional Income Distribution"
     description: "Introducing behavioural relationships in macroeconomic models using the functional income distribution as an example."
     required: true
     
   - file: "03-income-dist-rent.html"
-    title: "Income distribution including rent"
+    title: "3) Income distribution including rent"
     description: "Extending the behavioural equations for the functional income distribution to include resource rents."
+    required: true
+    
+  - file: "04-production-structure.html"
+    title: "4) Production structure"
+    description: "Introducing input-output relationships between productive sectors."
     required: true
 
