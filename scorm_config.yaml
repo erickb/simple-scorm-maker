@@ -53,4 +53,9 @@ content_items:
     title: "4) Production structure"
     description: "Introducing input-output relationships between productive sectors."
     required: true
+    
+  - file: "05-economic-growth.html"
+    title: "5) Economic growth"
+    description: "Presenting a complete, but small, ecological macroeconomic growth model."
+    required: true
 
