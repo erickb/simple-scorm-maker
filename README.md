@@ -1,5 +1,7 @@
 # SCORM-Maker: Automated SCORM Package Generator
 
+**Important Note**: This is a fork of [Jay Salmon](https://github.com/jaysalOC3/simple-scorm-maker)'s wonderful Simple SCORM maker. Please go there for the definitive version. I'm using this to generate SCORMs for some of my own modules.
+
 ## Introduction
 
 SCORM-Maker is a Python-based command-line tool that simplifies the creation of SCORM-compliant e-learning packages from various media formats. It automates the generation of SCORM manifest files and content packaging, making it easier for corporate training and educational content creators to deploy e-learning content on SCORM-compliant LMS platforms.
