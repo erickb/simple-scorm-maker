@@ -6,7 +6,7 @@ package:
   identifier: "SOEE5120M-2025-26"
   version: "1.0"
   language: "en-US"
-  description: "Exercises for SOEE5120M: Ecological Macroeconomics"
+  description: "This is part of the module's formative (unmarked) assessment. It focuses on understanding the mathematical expression of macroeconomic models."
 
 # Organization information
 organization:
