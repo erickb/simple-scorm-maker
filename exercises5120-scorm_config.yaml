@@ -38,4 +38,9 @@ content_items:
     title: "Unit 1"
     description: "Exercises for Unit 1"
     required: true
+ 
+  - file: "unit-2.html"
+    title: "Unit 2"
+    description: "Exercises for Unit 2"
+    required: true
     
