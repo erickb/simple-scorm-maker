@@ -2,15 +2,15 @@
 
 # Package metadata
 package:
-  title: "Ecological Macroeconomics Exercises"
+  title: "Ecological Macroeconomics Exercises: Answers"
   identifier: "SOEE5120M-2025-26"
   version: "1.0"
   language: "en-US"
-  description: "This is part of the module's formative (unmarked) assessment. It focuses on understanding the mathematical expression of macroeconomic models."
+  description: "These are the answers to the exercise questions. Do not look at these until you have made a serious attempt to answer the questions on your own or in a study group and, if required, asked for assistance from Skills@Library or the instructor."
 
 # Organization information
 organization:
-  name: "Ecological Macroeconomics Exercises"
+  name: "Ecological Macroeconomics Exercises: Answers"
   identifier: "SOEE5120M"
 
 # SCORM standard version (options: "1.2", "2004_3rd", "2004_4th")
@@ -34,13 +34,13 @@ ui:
 
 # Content items
 content_items:
-  - file: "unit-1.html"
-    title: "Unit 1"
-    description: "Exercises for Unit 1"
+  - file: "unit-1-ans.html"
+    title: "Unit 1: Answers"
+    description: "Answers for Unit 1 exercises"
     required: true
  
-  - file: "unit-2.html"
-    title: "Unit 2"
-    description: "Exercises for Unit 2"
+  - file: "unit-2-ans.html"
+    title: "Unit 2: Answers"
+    description: "Answers for Unit 2 exercises"
     required: true
     

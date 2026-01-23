@@ -1,0 +1,46 @@
+# SCORM-Maker Configuration File
+
+# Package metadata
+package:
+  title: "Ecological Macroeconomics Exercises: Questions"
+  identifier: "SOEE5120M-2025-26"
+  version: "1.0"
+  language: "en-US"
+  description: "This is part of the module's formative (unmarked) assessment. It focuses on understanding the mathematical expression of macroeconomic models."
+
+# Organization information
+organization:
+  name: "Ecological Macroeconomics Exercises: Questions"
+  identifier: "SOEE5120M"
+
+# SCORM standard version (options: "1.2", "2004_3rd", "2004_4th")
+scorm_version: "1.2"
+
+# Content completion criteria (options: "all_items", "percentage", "last_item")
+completion_criteria: "all_items"
+# Required if completion_criteria is "percentage"
+completion_percentage: ~
+
+# UI customization
+ui:
+  theme:
+    primary_color: "#3498db"
+    secondary_color: "#2c3e50"
+    text_color: "#333333"
+    background_color: "#ffffff"
+  logo_url: "logo.png"
+  show_progress_bar: true
+  show_table_of_contents: true
+
+# Content items
+content_items:
+  - file: "unit-1-qns.html"
+    title: "Unit 1: Questions"
+    description: "Questions for Unit 1 exercises"
+    required: true
+ 
+  - file: "unit-2-qns.html"
+    title: "Unit 2: Questions"
+    description: "Questions for Unit 2 exercises"
+    required: true
+    
