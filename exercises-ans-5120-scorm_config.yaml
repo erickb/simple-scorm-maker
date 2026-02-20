@@ -44,3 +44,7 @@ content_items:
     description: "Answers for Unit 2 exercises"
     required: true
     
+  - file: "unit-4-ans.html"
+    title: "Unit 4: Answers"
+    description: "Answers for Unit 4 exercises"
+    required: true
